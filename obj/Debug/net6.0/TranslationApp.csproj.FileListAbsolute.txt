@@ -1,0 +1,15 @@
+/home/matheus/Projects/TranslationApp/bin/Debug/net6.0/TranslationApp
+/home/matheus/Projects/TranslationApp/bin/Debug/net6.0/TranslationApp.deps.json
+/home/matheus/Projects/TranslationApp/bin/Debug/net6.0/TranslationApp.runtimeconfig.json
+/home/matheus/Projects/TranslationApp/bin/Debug/net6.0/TranslationApp.dll
+/home/matheus/Projects/TranslationApp/bin/Debug/net6.0/TranslationApp.pdb
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.csproj.AssemblyReference.cache
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.AssemblyInfoInputs.cache
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.AssemblyInfo.cs
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.csproj.CoreCompileInputs.cache
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.dll
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/refint/TranslationApp.dll
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.pdb
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/TranslationApp.genruntimeconfig.cache
+/home/matheus/Projects/TranslationApp/obj/Debug/net6.0/ref/TranslationApp.dll

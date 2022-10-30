@@ -61,11 +61,31 @@ namespace TranslationApp
 
 
             }
-            foreach(string word in sentences)
-            {
-                System.Console.WriteLine( word);
-            }
+
             return sentences;
+        }
+
+        public static List<string> ShortenSentences(List<string> sentences)
+        {
+            var newSentencesList = new List<string>();
+
+            for (int i = 0; i <sentences.Count; i++)
+            {
+                int wordCount = 0;
+                for (int j = 0; j < sentences[i].Count(); j++)
+                {
+                    if(sentences[i][j] == ' ')
+                    {
+                        wordCount++;
+                    }
+
+                }
+                if (wordCount > 2)
+                {
+                    newSentencesList.Add(sentences[i]);
+                }
+            }
+            return newSentencesList;
         }
 
     }

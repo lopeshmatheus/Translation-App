@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "J7feiYNuOAbJ8FpVjNtpt2RoomNyttVOMSaO8E5uc8LaMfLC/xIYBhW0hZNuNCFMS5XgdFzo+rqutS/LHJYrUw==",
+  "dgSpecHash": "/eyivdXDr/njcjBbHc3brhwe9SAsIG5iJgEzfm2NQjLOO05LFXo4eti/XVqUI5FDOl2/TAGH3dtx+5x6ak2GLA==",
   "success": true,
   "projectFilePath": "/home/matheus/Projects/TranslationApp/TranslationApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/matheus/.nuget/packages/csvhelper/30.0.0/csvhelper.30.0.0.nupkg.sha512",
+    "/home/matheus/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
